@@ -56,3 +56,5 @@ Run tests:
 pytest
 ```
 
+
+## [Deployment Guide](/DEPLOYING.md)
